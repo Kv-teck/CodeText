@@ -1,0 +1,22 @@
+h1{
+    color: #ff0000;
+}
+p{
+    color:rgb(0, 128, 0);
+    font-size: 20px;
+    font-family: 'Times New Roman';/*phông chữ*/
+    font-weight: bold;/*thin light normal medium semi-bold bold extra-bold black độ đậm của văn bản*/
+    text-align: justify;/*left center right justify căn chỉnh văn bản*/
+    /*justify-content: center; Căn chỉnh nội dung*/
+    text-decoration: none;/*underline line-through overline gạch chữ*/
+    text-transform: none;/*uppercase lowercase capitalize chỉnh chữ hoa hay thường*/
+    line-height: 1.5;/*độ cao của dòng giãn cách dòng*/
+    width: 700px;
+    border-bottom: 1px solid;/*đường liền*/
+    background-color: aqua;/*màu nền*/
+    float:left;/*left right dồn đoạn*/
+    padding: 15px;/*dãn đoãn khi dồn*/
+}
+body{
+    background-color: antiquewhite;
+}
